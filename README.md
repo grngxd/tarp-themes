@@ -24,6 +24,6 @@ Create a pull request with your theme in the `themes.json` file. The format is a
     "license": string // Optional, default is "None"
     "preview": string // Optional, can be a gif or png
     "tags": [string] // Optional, tags for the theme
-    "pack": string // Optional, link to the pack
+    "source": string // Optional, link to the pack
 }
 ```

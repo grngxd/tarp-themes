@@ -1,11 +1,12 @@
 {
     "meta": {
-      "name": "Camp",
-      "description": "The unofficial-official theme pack for Shelter.",
-      "author": "grngxd"
-      "raw": "https://raw.githubusercontent.com/grngxd/tarp-themes/main/themes.json"
+        "name": "Camp",
+        "description": "The unofficial-official theme pack for Shelter.",
+        "author": "grngxd",
+        "link": "https://raw.githubusercontent.com/grngxd/tarp-themes/main/themes.json",
+        "json_link": "https://raw.githubusercontent.com/grngxd/tarp-themes/main/themes.json"
     },
-    "themes" : [
+    "themes": [
         {
             "name": "midnight",
             "author": "refact0r",
@@ -14,7 +15,7 @@
             "license": "MIT",
             "preview": "https://private-user-images.githubusercontent.com/34758569/294722176-69de9437-8312-4949-befd-a476a56e2cee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM2NjQ5OTksIm5iZiI6MTcyMzY2NDY5OSwicGF0aCI6Ii8zNDc1ODU2OS8yOTQ3MjIxNzYtNjlkZTk0MzctODMxMi00OTQ5LWJlZmQtYTQ3NmE1NmUyY2VlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE0VDE5NDQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5NjZjMzA3YWEwYTE5MDA1ZDFkNGFjM2Y3NmY1YzcyNmI3NGQwYWE0MzYxODgwNDkzMjQyMjkxY2VmNzNjMjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.X0LnArfZtMAGYSfARMFD96ny1qwH2amyzX6Wr9wxVV8",
             "tags": ["dark", "rounded"],
-            "repo": "https://github.com/refact0r/midnight-discord"
+            "source": "https://github.com/refact0r/midnight-discord"
         }
     ]
 }
