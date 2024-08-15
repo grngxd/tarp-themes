@@ -4,7 +4,8 @@
         "description": "The unofficial-official theme pack for Shelter.",
         "author": "grngxd",
         "link": "https://github.com/grngxd/tarp-themes",
-        "json_link": "https://raw.githubusercontent.com/grngxd/tarp-themes/main/themes.json"
+        "json_link": "https://raw.githubusercontent.com/grngxd/tarp-themes/main/themes.json",
+        "version": "1.0.1"
     },
     "themes": [
         {
@@ -16,6 +17,89 @@
             "preview": "https://betterdiscord.app/resources/thumbnails/1384.png",
             "tags": ["dark", "rounded"],
             "source": "https://github.com/refact0r/midnight-discord"
+        },
+        {
+            "name": "system24",
+            "author": "refact0r",
+            "description": "a tui-style discord theme, inspired by spicetify text theme.",
+            "css_link": "https://refact0r.github.io/system24/theme/system24.theme.css",
+            "license": "MIT",
+            "preview": "https://raw.githubusercontent.com/refact0r/system24/main/assets/screenshot3.png",
+            "tags": ["tui", "text", "square"],
+            "source": "https://github.com/refact0r/system24"
+        },
+        {
+            "name": "catppuccin - macchiato",
+            "author": "Various Contributors",
+            "description": "🎮 Soothing pastel theme for Discord",
+            "css_link": "https://catppuccin.github.io/discord/dist/catppuccin-macchiato.theme.css",
+            "license": "MIT",
+            "preview": "https://raw.githubusercontent.com/catppuccin/discord/main/assets/macchiato.webp",
+            "tags": ["catppuccino", "macchiato", "smooth", "default edit"],
+            "source": "https://github.com/catppuccin/discord"
+        },
+        {
+            "name": "AMOLED-CORD",
+            "author": "LuckFire & Various Contributors",
+            "description": "Lights out, baby!",
+            "css_link": "https://catppuccin.github.io/discord/dist/catppuccin-macchiato.theme.css",
+            "license": "MIT",
+            "preview": "https://camo.githubusercontent.com/2a19e446131a4f3b229c85183199635d47ca203f6c0e6d8c203291c57d384d77/68747470733a2f2f646973636f72642d657874656e73696f6e732e6769746875622e696f2f6173736574732f62616e6e6572732f616d6f6c65642d636f72642e706e67",
+            "tags": ["default edit", "amoled", "black", "port", "dark"],
+            "source": "https://github.com/LuckFire/amoled-cord"
+        },
+        {
+            "name": "Ultra",
+            "author": "TheCommieAxolotl",
+            "description": "A Smooth and Dark theme that is complimented with a touch of colour.",
+            "css_link": "https://user-images.githubusercontent.com/87679354/146335367-12e85828-5394-4773-bdaf-6f61d53a1597.png",
+            "license": "MIT",
+            "preview": "https://user-images.githubusercontent.com/87679354/146335367-12e85828-5394-4773-bdaf-6f61d53a1597.png",
+            "tags": ["dark", "smooth", "blur"],
+            "source": "https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/Ultra"
+        },
+        {
+            "name": "Horizontal Server List",
+            "author": "Various Contributors",
+            "description": "Moves the server list from the left to the top of Discord. Compatible with Server Folders and most basic transparent themes",
+            "css_link": "https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/deploy/HorizontalServerList.theme.css",
+            "license": "MIT",
+            "preview": "https://camo.githubusercontent.com/fff3d836676561476a5ae24823fa22e742174a95691eceee8323e7fbd39a76fc/68747470733a2f2f692e696d6775722e636f6d2f795644747776462e706e67",
+            "tags": ["horizontal", "server list", "top"],
+            "source": "https://github.com/DiscordStyles/HorizontalServerList"
+        },
+        {
+            "name": "Discolored",
+            "author": "NYRI4 & Various Contributors",
+            "description": "Colorize Discord's boring SVGs.",
+            "css_link": "https://nyri4.github.io/Discolored/support/discolored.theme.css",
+            "license": "WTFPL",
+            "preview": "https://camo.githubusercontent.com/663e20ccb8906797a5cd52131595753fce731097ae0fbaa4917725393b28d65b/68747470733a2f2f6e797269342e6769746875622e696f2f446973636f6c6f7265642f6173736574732f73637265656e73686f742e706e67",
+            "tags": ["color", "svg"],
+            "source": "https://github.com/NYRI4/Discolored"
+        },
+        {
+            "name": "Float",
+            "author": "Disease & Various Contributors",
+            "description": "A practical compact mobile Discord with customization. REMOVE MINIMUM WINDOW SIZE",
+            "css_link": "https://raw.githubusercontent.com/maenDisease/BetterDiscordStuff/main/Themes/Float/zFloat.theme.css",
+            "license": "None",
+            "preview": "https://maendisease.github.io/BetterDiscordStuff/Themes/Float/assets/preview-2.gif",
+            "tags": ["compact", "mobile", "customization"],
+            "source": "https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Float"
+        },
+        {
+            "name": "Fluent",
+            "author": "Gibbu & Various Contributors",
+            "description": "Brings the look of Windows 11 to Discord.",
+            "css_link": "https://raw.githubusercontent.com/DiscordStyles/Fluent/deploy/Fluent.theme.css",
+            "license": "MIT",
+            "preview": "https://private-user-images.githubusercontent.com/20338746/248670423-2c78434b-731d-4c4b-b043-c72d63a63fa4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3MzI5MDMsIm5iZiI6MTcyMzczMjYwMywicGF0aCI6Ii8yMDMzODc0Ni8yNDg2NzA0MjMtMmM3ODQzNGItNzMxZC00YzRiLWIwNDMtYzcyZDYzYTYzZmE0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE1VDE0MzY0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5MjdjNGRlNDI4MmVkYjA4Y2RlN2Y3MmE3OWVmNDY1ZjA2MzRkYzQxZGJlYzViY2JhNGE2MjM1NWM1MWE2NTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XnSIjAXBkVj8DazkmKZ2MLhX2bk8ChgG3tRplJRmKdA",
+            "tags": ["windows 11", "fluent", "microsoft"],
+            "source": "https://github.com/DiscordStyles/Fluent"
+        },
+        {
+
         }
     ]
 }
