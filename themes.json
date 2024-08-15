@@ -35,14 +35,14 @@
             "css_link": "https://catppuccin.github.io/discord/dist/catppuccin-macchiato.theme.css",
             "license": "MIT",
             "preview": "https://raw.githubusercontent.com/catppuccin/discord/main/assets/macchiato.webp",
-            "tags": ["catppuccino", "macchiato", "smooth", "default edit"],
+            "tags": ["macchiato", "smooth", "default edit"],
             "source": "https://github.com/catppuccin/discord"
         },
         {
             "name": "AMOLED-CORD",
             "author": "LuckFire & Various Contributors",
             "description": "Lights out, baby!",
-            "css_link": "https://catppuccin.github.io/discord/dist/catppuccin-macchiato.theme.css",
+            "css_link": "https://luckfire.github.io/amoled-cord/src/amoled-cord.css",
             "license": "MIT",
             "preview": "https://camo.githubusercontent.com/2a19e446131a4f3b229c85183199635d47ca203f6c0e6d8c203291c57d384d77/68747470733a2f2f646973636f72642d657874656e73696f6e732e6769746875622e696f2f6173736574732f62616e6e6572732f616d6f6c65642d636f72642e706e67",
             "tags": ["default edit", "amoled", "black", "port", "dark"],
