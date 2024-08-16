@@ -99,7 +99,83 @@
             "source": "https://github.com/DiscordStyles/Fluent"
         },
         {
-
+            "name": "Unity",
+            "author": "joshuah345",
+            "description": "A highly configurable theme for Discord, inspired by OneUI",
+            "css_link": "https://raw.githubusercontent.com/joshuah345/Discord-Stuff/master/Themes/Unity/Unity.theme.css",
+            "license": "None",
+            "preview": "https://raw.githubusercontent.com/joshuah345/Discord-Stuff/master/Themes/Unity/assets/screenshots/unity-main.png",
+            "tags": ["oneui", "configurable", "customizable", "samsung"],
+            "source": "https://github.com/joshuah345/Discord-Stuff/tree/master/Themes/Unity"
+        },
+        {
+            "name": "LilyPichu",
+            "author": "NYRI4",
+            "description": "A theme based on @Melonturtle_ stream design",
+            "css_link": "https://raw.githubusercontent.com/NYRI4/LilyPichu/main/lilypichu.theme.css",
+            "license": "None",
+            "preview": "https://camo.githubusercontent.com/44447b51780599695d6921edd297f55e29fe8a0649471e7789c6e6a1c9d29037/68747470733a2f2f6e797269342e6769746875622e696f2f4c696c7950696368752f6173736574732f707265766965772e706e67",
+            "tags": ["lilypichu", "stream", "melonturtle_"],
+            "source": "https://github.com/NYRI4/LilyPichu"
+        },
+        {
+            "name": "DiscordNight",
+            "author": "KillYoy",
+            "description": "An actual Dark/Nightmode Theme for Discord",
+            "css_link": " https://raw.githubusercontent.com/KillYoy/DiscordNight/master/DiscordNight.theme.css",
+            "license": "None",
+            "preview": "",
+            "tags": ["dark", "night", "default edit"],
+            "source": "https://github.com/KillYoy/DiscordNight"
+        },
+        {
+            "name": "Exponent",
+            "author": "Saltssaumure",
+            "description": "A Windows XP style Discord theme.",
+            "css_link": "https://raw.githubusercontent.com/Saltssaumure/xp-discord-theme/main/Exponent.theme.css",
+            "preview": "https://camo.githubusercontent.com/d892175b35f7541264cf0fa52e5ccbe9f84b3fdc2728d6c12a5b80110020573e/68747470733a2f2f73616c74737361756d7572652e6769746875622e696f2f78702d646973636f72642d7468656d652f707265766965772f6578706f6e656e74322e706e67",
+            "tags": ["windows xp", "classic", "retro"],
+            "source": "https://github.com/Saltssaumure/xp-discord-theme"
+        },
+        {
+            "name": "Outlook",
+            "author": "Disease",
+            "description": "Based on Outlook Web",
+            "css_link": "https://raw.githubusercontent.com/maenDisease/Outlook/deploy/Outlook.theme.css",
+            "license": "None",
+            "preview": "https://user-images.githubusercontent.com/90428263/230512472-9a3102f6-b74f-43fd-816f-c14a201d2ff8.png",
+            "tags": ["outlook", "web", "microsoft", "windows"],
+            "source": "https://github.com/maenDisease/Outlook"
+        },
+        {
+            "name": "SkeuoCord",
+            "author": "Marda33",
+            "description": " A complete skeuomorphic overhaul for Discord.",
+            "css_link": "https://raw.githubusercontent.com/Marda33/SkeuoCord/master/SkeuoCord.theme.css",
+            "license": "None",
+            "preview": "https://raw.githubusercontent.com/Marda33/SkeuoCord/master/Preview%20(Dark%20Theme).png",
+            "tags": ["skeuomorphic", "skeuocord", "skeuomorphism", "retro", "classic"],
+            "source": "https://github.com/Marda33/SkeuoCord"
+        },
+        {
+            "name": "Settings Modal",
+            "author": "mwittrien",
+            "description": "Turns Settings windows into Modals",
+            "css_link": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/SettingsModal/SettingsModal.theme.css",
+            "license": "GPL-2.0",
+            "preview": "https://camo.githubusercontent.com/2220dca1f579c3bf65ec4f8e847f7fe9fe23c55678009d39634fbfd33cf78277/68747470733a2f2f6d776974747269656e2e6769746875622e696f2f426574746572446973636f72644164646f6e732f5468656d65732f53657474696e67734d6f64616c2f5f7265732f636f7665722e706e67",
+            "tags": ["settings", "modal", "qol"],
+            "source": "https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/SettingsModal"
+        },
+        {
+            "name": "DTM-16",
+            "author": "XYZenix",
+            "description": "A theme that brings back the 2016 look of Discord.",
+            "css_link": "https://raw.githubusercontent.com/XYZenix/DTM-16/master/dtm-16.theme.css",
+            "license": "None",
+            "preview": "https://us-east-1.tixte.net/uploads/moni.wants.solutions/IYzxeLPJUN.png",
+            "tags": ["2016", "retro", "classic", "old", "time machine", "wayback", "88mph"],
+            "source": "https://github.com/XYZenix/DTM-16"
         }
     ]
 }
