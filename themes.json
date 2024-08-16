@@ -52,7 +52,7 @@
             "name": "Ultra",
             "author": "TheCommieAxolotl",
             "description": "A Smooth and Dark theme that is complimented with a touch of colour.",
-            "css_link": "https://user-images.githubusercontent.com/87679354/146335367-12e85828-5394-4773-bdaf-6f61d53a1597.png",
+            "css_link": "https://raw.githubusercontent.com/TheCommieAxolotl/BetterDiscord-Stuff/main/Ultra/Ultra.theme.css",
             "license": "MIT",
             "preview": "https://user-images.githubusercontent.com/87679354/146335367-12e85828-5394-4773-bdaf-6f61d53a1597.png",
             "tags": ["dark", "smooth", "blur"],
@@ -94,7 +94,7 @@
             "description": "Brings the look of Windows 11 to Discord.",
             "css_link": "https://raw.githubusercontent.com/DiscordStyles/Fluent/deploy/Fluent.theme.css",
             "license": "MIT",
-            "preview": "https://private-user-images.githubusercontent.com/20338746/248670423-2c78434b-731d-4c4b-b043-c72d63a63fa4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3MzI5MDMsIm5iZiI6MTcyMzczMjYwMywicGF0aCI6Ii8yMDMzODc0Ni8yNDg2NzA0MjMtMmM3ODQzNGItNzMxZC00YzRiLWIwNDMtYzcyZDYzYTYzZmE0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE1VDE0MzY0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5MjdjNGRlNDI4MmVkYjA4Y2RlN2Y3MmE3OWVmNDY1ZjA2MzRkYzQxZGJlYzViY2JhNGE2MjM1NWM1MWE2NTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XnSIjAXBkVj8DazkmKZ2MLhX2bk8ChgG3tRplJRmKdA",
+            "preview": "https://us-east-1.tixte.net/uploads/moni.wants.solutions/248670423-2c78434b-731d-4c4b-b043-c72d63a63fa4.png",
             "tags": ["windows 11", "fluent", "microsoft"],
             "source": "https://github.com/DiscordStyles/Fluent"
         },
