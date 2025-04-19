@@ -12,7 +12,7 @@
             "name": "midnight",
             "author": "refact0r",
             "description": "A dark, rounded discord theme.",
-            "css_link": "https://raw.githubusercontent.com/refact0r/midnight-discord/master/midnight.theme.css",
+            "css_link": "https://refact0r.github.io/midnight-discord/themes/midnight.theme.css",
             "license": "MIT",
             "preview": "https://betterdiscord.app/resources/thumbnails/1384.png",
             "tags": ["dark", "rounded"],
