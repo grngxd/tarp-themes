@@ -5,7 +5,7 @@
         "author": "grngxd",
         "link": "https://github.com/grngxd/tarp-themes",
         "json_link": "https://raw.githubusercontent.com/grngxd/tarp-themes/main/themes.json",
-        "version": "1.0.1"
+        "version": "1.0.2"
     },
     "themes": [
         {
@@ -176,6 +176,16 @@
             "preview": "https://us-east-1.tixte.net/uploads/moni.wants.solutions/IYzxeLPJUN.png",
             "tags": ["2016", "retro", "classic", "old", "time machine", "wayback", "88mph"],
             "source": "https://github.com/XYZenix/DTM-16"
-        }
+        },
+        {
+            "name": "Shine",
+            "author": "Blade04208 & zeealeid",
+            "description": "Glossy, glassy theme based on a twitter design.",
+            "css_link": "https://raw.githubusercontent.com/Blade04208/shine/refs/heads/master/shine.theme.css",
+            "license": "MIT",
+            "preview": "https://github.com/Blade04208/shine/raw/master/src/thumb.png",
+            "tags": ["gloss", "liquid", "glass", "frosted", "apple", "aero"],
+            "source": "https://github.com/Blade04208/shine"
+        },
     ]
 }
